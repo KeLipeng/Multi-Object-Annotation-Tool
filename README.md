@@ -1,5 +1,5 @@
 # Multi-Object-Annotation-Tool
-This tool is designed for multi-object annotation, which is used by UA-DETRAC dataset annotaion.
+This tool is designed for multi-object annotation, which is used by UA-DETRAC(http://detrac-db.rit.albany.edu/) dataset annotaion.
 Usage:
   1. When Click Save button, current process will be saved under the Openfile path with 3 file ：FileName_Config.txt(Configure file for reload)、FileName_RoI.txt(RoI/IgnoreRegion information)、FileName.txt(Target label information File)。
   2. Click Load button to continue labeling from a saved labeling process。
